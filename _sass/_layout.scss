@@ -33,6 +33,18 @@ body.sticky-bottom-footer {
   }
 }
 
+.profile-full {
+  width: 100%;
+  margin: 2rem 0;
+}
+
+.profile-full img {
+  width: 100%;
+  max-height: 75vh;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+}
 // TODO: redefine content layout.
 
 
