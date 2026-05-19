@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic_me.jpg
   image_circular: false # crops the image to make it circular
   # address: >
   # <p>555 your office number</p>
@@ -19,7 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Phd student in Earth and Environmental Sciences at the University of Pavia, Italy. I am a big fan of mountain landscapes and bear a special affinity for the Himalaya. Fortunately, my research allows me to work in alpine environments where I investigate sediment dynamics under a changing climate.
+I am a Phd student in Earth and Environmental Sciences at the University of Pavia, Italy. 
+
+I am a big fan of mountain landscapes and bear a special affinity for the Himalaya. Fortunately, my research allows me to work in alpine environments where I investigate sediment dynamics under a changing climate.
 
 Beyond research, I enjoy music and continue to learn vocal Hindustani classical music. 
 
