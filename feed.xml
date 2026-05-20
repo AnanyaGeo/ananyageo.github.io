@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://ananyageo.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ananyageo.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-05-20T11:52:11+00:00</updated><id>https://ananyageo.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://ananyageo.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ananyageo.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-05-20T11:56:10+00:00</updated><id>https://ananyageo.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 </subtitle><entry><title type="html">I work close to glaciers in the Alps</title><link href="https://ananyageo.github.io/blog/2026/blog-1/" rel="alternate" type="text/html" title="I work close to glaciers in the Alps" /><published>2026-05-19T16:40:16+00:00</published><updated>2026-05-19T16:40:16+00:00</updated><id>https://ananyageo.github.io/blog/2026/blog-1</id><content type="html" xml:base="https://ananyageo.github.io/blog/2026/blog-1/"><![CDATA[<p>For my PhD project, I am working in an alpine catchment called the <strong>Sulden catchment</strong>, which is located in the South Tyrol region of northern Italy.  In my ongoing research, I focus on the <strong>proglacial</strong> part of this catchment. According to Tobias Heckmann (and widely accepted by others in the community) in the book <em>Geomorphology of Proglacial Systems</em>, a proglacial area is the part of a glacierized catchment bounded by <strong>Little Ice Age (LIA) moraines</strong> and the contemporary glacier boundary. However, there have been a lot of modifications in the Sulden catchment due to human activities, and the LIA terminal moraine is no longer visible. Hence, I assume the proglacial region of this catchment to be limited by the terminal moraine of the 1927 glacier advance. During the 1920s, many glaciers in the Alps had witnessed advances.</p>
 
 <p>Okay! I guess that was enough jargon to begin with!</p>
@@ -37,11 +37,11 @@
   <li>A <strong>lateral moraine</strong> forms along the sides of a glacier.</li>
 </ul>
 
-<p><img src="/assets/img/moraine_sketch.png" alt="Catchment sketch" /></p>
+<p><img src="/assets/img/moraine_sketch.png" style="width: 100%; height: auto;" alt="Catchment sketch" /></p>
 
 <p>Now, it probably makes more sense to look at actual field photographs of different moraine types. Along with the moraines, you can also see some fantastic peaks and the proglacial stream flowing between moraines in this region.</p>
 
-<p><img src="/assets/img/labels.png" alt="Catchment sketch" /></p>
+<p><img src="/assets/img/labels.png" style="width: 100%; height: auto;" alt="Catchment sketch" /></p>
 
 <h1 id="the-sulden-proglacial-region">The Sulden Proglacial Region</h1>
 
@@ -51,7 +51,7 @@
 
 <p>Here’s a Google Earth view of part of the catchment:</p>
 
-<p><img src="/assets/img/overview.png" alt="Catchment sketch" /></p>
+<p><img src="/assets/img/overview.png" style="width: 100%; height: auto;" alt="Catchment sketch" /></p>
 
 <p>We have high peaks in the uplands, with elevations exceeding <strong>3500 meters</strong>. You can also see the terminal moraine, which marks the former glacial extent in 1927.</p>
 
@@ -59,7 +59,7 @@
 
 <p>The LIA terminal moraine likely extended farther down-valley, but it is no longer preserved due to later human modifications of the landscape.</p>
 
-<p><img src="/assets/img/overview_2.png" alt="Catchment sketch" /></p>
+<p><img src="/assets/img/overview_2.png" style="width: 100%; height: auto;" alt="Catchment sketch" /></p>
 
 <hr />
 
