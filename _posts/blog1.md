@@ -8,31 +8,24 @@ categories: blog
 published: true
 ---
 
-For my PhD project, I am working in an alpine catchment called the **Sulden catchment**, located in the South Tyrol region of northern Italy. In my ongoing research, I focus on the **proglacial** part of this catchment.
+For my PhD project, I am working in an alpine catchment called the **Sulden catchment**, which is located in the South Tyrol region of northern Italy.  In my ongoing research, I focus on the **proglacial** part of this catchment. According to Tobias Heckmann (and widely accepted by others in the community) in the book *Geomorphology of Proglacial Systems*, a proglacial area is the part of a glacierized catchment bounded by **Little Ice Age (LIA) moraines** and the contemporary glacier boundary. However, there have been a lot of modifications in the Sulden catchment due to human activities, and the LIA terminal moraine is no longer visible. Hence, I assume the proglacial region of this catchment to be limited by the terminal moraine of the 1927 glacier advance. During the 1920s, many glaciers in the Alps had witnessed advances.
 
-According to Tobias Heckmann (and widely accepted by others in the community) in the book *Geomorphology of Proglacial Systems*, a proglacial area is the part of a glacierized catchment bounded by **Little Ice Age (LIA) moraines** and the contemporary glacier boundary.
+Okay! I guess that was enough jargon to begin with! 
 
-However, the Sulden catchment has experienced substantial human modification over time, and the original LIA terminal moraine is no longer visible. Therefore, I currently assume the proglacial region of this catchment to be limited by the terminal moraine of the **1927 glacier advance**. During the 1920s, several glaciers in the Alps experienced temporary advances.
+In my blogs, I will (mostly) try to write things in a way that allows everyone to understand the ideas with at least some clarity. I have struggled with geoscience jargon myself in the past. Now, with some experience, I can at least manage geomorphology papers (the study of the Earth’s changing surface and the sub-discipline I work in), but I still understand almost nothing when reading geochemistry papers, for example.
 
-Okay! I guess that was enough jargon to begin with.
+People in the field would argue that scientific papers are technical and that certain terms cannot be avoided. That is probably true, but here, I will try to keep things as simple as possible so that even someone with no background in geoscience (but with a basic understanding of English and school-level science) can follow along. Whenever I do use certain terms, I will make sure to explain them clearly.
 
-In my blogs, I will mostly try to explain things in a way that allows everyone to follow the ideas with at least some clarity. I struggled with geoscience jargon myself in the past. Now, with some experience, I can at least manage geomorphology papers (the study of the Earth’s changing surface and the sub-discipline I work in), but I still understand almost nothing when reading geochemistry papers, for example.
+Now, for my uninitiated readers, this blog will cover a few glacial and near-glacial landscape terms that will help introduce you to my study region. I tend to avoid using AI when writing because I generally enjoy doing it myself. But I had a few conversations with ChatGPT to generate a few instructive sketches explaining some basic concepts, mostly because I suck at drawing/sketching!
 
-People in the field would argue that scientific papers are technical and that certain terms cannot always be avoided. That is probably true, but here I will try to keep things as simple as possible so that even someone with no background in geoscience — but with basic English and school-level science — can follow along.
-
-Whenever I use specific technical terms, I will make sure to explain them clearly.
-
-Now, for my uninitiated readers, this blog will introduce a few glacial and near-glacial landscape terms that will help explain my study region.
-
-I generally avoid using AI while writing because I enjoy doing it myself. However, I did have a few conversations with ChatGPT to generate some instructive sketches explaining basic concepts — mostly because I absolutely suck at drawing and sketching!
 
 ---
 
 # What is a Catchment?
 
-You can think of a catchment as a natural water-collecting system.
+You can think of a catchment as a natural water-collecting system. 
 
-It is an area of land, usually surrounded by mountains or hills, where rainfall flows downhill into streams and rivers that eventually drain through a single outlet.
+It is an area of land, usually surrounded by mountains or hills, where rainfall flows downhill into streams and rivers that eventually drain out through a single outlet. 
 
 AI helped me generate a nice sketch of a catchment :)
 
@@ -55,7 +48,7 @@ A **moraine** is a mound of unsorted rocks and debris deposited by glaciers or i
 
 Earlier, I used the term **terminal moraine**. Moraines can be classified into different types:
 
-- A **terminal moraine** is a ridge of debris that marks the furthest advance or terminus of a glacier.
+- A **terminal moraine** is a ridge of debris that marks the terminus, or end, of an advancing glacier. 
 - A **medial moraine** forms where two glacier ice streams merge together.
 - A **lateral moraine** forms along the sides of a glacier.
 
