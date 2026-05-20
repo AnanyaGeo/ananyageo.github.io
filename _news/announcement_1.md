@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-05-10 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I moved to Eichstätt, Germany for three months, where I will collaborate with Prof. Dr. Tobias Heckmann at the Catholic University of Eichstätt-Ingolstadt. [Read more](https://www.ku.de/news/welcome-ananya-pandey)
