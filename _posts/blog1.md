@@ -19,7 +19,7 @@ People in the field would argue that scientific papers are technical and that ce
 Now, for my uninitiated readers, this blog will cover a few glacial and near-glacial landscape terms that will help introduce you to my study region. I tend to avoid using AI when writing because I generally enjoy doing it myself. But I had a few conversations with ChatGPT to generate a few instructive sketches explaining some basic concepts, mostly because I suck at drawing/sketching!
 
 
----
+
 
 # What is a Catchment?
 
@@ -29,13 +29,9 @@ It is an area of land, usually surrounded by mountains or hills, where rainfall 
 
 AI helped me generate a nice sketch of a catchment :)
 
-<img src="/assets/img/catchment_sketch.png"
-     style="display: block; margin-left: auto; margin-right: auto; width: 700px;">
-<p style="text-align: center; font-style: italic;">
-  Simplified sketch of a mountain catchment (AI generated).
-</p>
+![Catchment sketch](/assets/img/catchment_sketch.png)
 
----
+
 
 # What was the Little Ice Age (LIA)?
 
@@ -43,7 +39,7 @@ The **Little Ice Age (LIA)** was a period of regional cooling that lasted roughl
 
 It was not a true ice age, but many parts of the world became noticeably cooler, leading to the expansion and advance of glaciers in several mountain regions.
 
----
+
 
 # What is a Moraine?
 
@@ -56,14 +52,14 @@ Earlier, I used the term **terminal moraine**. Moraines can be classified into d
 - A **lateral moraine** forms along the sides of a glacier.
 
 ![Catchment sketch](/assets/img/moraine_sketch.png)
-*Different moraine types (AI generated)*
+
 
 Now, it probably makes more sense to look at actual field photographs of different moraine types. Along with the moraines, you can also see some fantastic peaks and the proglacial stream flowing between moraines in this region.
 
 ![Catchment sketch](/assets/img/labels.png)
-*This is what the moraines look like in the field!*
 
----
+
+
 
 # The Sulden Proglacial Region
 
@@ -74,7 +70,7 @@ Let’s now look at the Sulden proglacial region itself.
 Here’s a Google Earth view of part of the catchment:
 
 ![Catchment sketch](/assets/img/overview.png)
-*Google Earth view of part of the Sulden catchment.*
+
 
 We have high peaks in the uplands, with elevations exceeding **3500 meters**. You can also see the terminal moraine, which marks the former glacial extent in 1927.
 
@@ -83,7 +79,7 @@ Since then, the glacier has steadily receded, and this recession has become much
 The LIA terminal moraine likely extended farther down-valley, but it is no longer preserved due to later human modifications of the landscape.
 
 ![Catchment sketch](/assets/img/overview_2.png)
-*Closer view of the Sulden proglacial region*
+
 
 ---
 
