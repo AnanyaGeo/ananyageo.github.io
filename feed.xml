@@ -1,2 +1,66 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://ananyageo.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ananyageo.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-05-20T11:43:48+00:00</updated><id>https://ananyageo.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-</subtitle></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://ananyageo.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ananyageo.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-05-20T11:46:49+00:00</updated><id>https://ananyageo.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+</subtitle><entry><title type="html">Understanding the Sulden Proglacial Catchment</title><link href="https://ananyageo.github.io/blog/2026/blog-1/" rel="alternate" type="text/html" title="Understanding the Sulden Proglacial Catchment" /><published>2026-05-19T16:40:16+00:00</published><updated>2026-05-19T16:40:16+00:00</updated><id>https://ananyageo.github.io/blog/2026/blog-1</id><content type="html" xml:base="https://ananyageo.github.io/blog/2026/blog-1/"><![CDATA[<p>For my PhD project, I am working in an alpine catchment called the <strong>Sulden catchment</strong>, which is located in the South Tyrol region of northern Italy.  In my ongoing research, I focus on the <strong>proglacial</strong> part of this catchment. According to Tobias Heckmann (and widely accepted by others in the community) in the book <em>Geomorphology of Proglacial Systems</em>, a proglacial area is the part of a glacierized catchment bounded by <strong>Little Ice Age (LIA) moraines</strong> and the contemporary glacier boundary. However, there have been a lot of modifications in the Sulden catchment due to human activities, and the LIA terminal moraine is no longer visible. Hence, I assume the proglacial region of this catchment to be limited by the terminal moraine of the 1927 glacier advance. During the 1920s, many glaciers in the Alps had witnessed advances.</p>
+
+<p>Okay! I guess that was enough jargon to begin with!</p>
+
+<p>In my blogs, I will (mostly) try to write things in a way that allows everyone to understand the ideas with at least some clarity. I have struggled with geoscience jargon myself in the past. Now, with some experience, I can at least manage geomorphology papers (the study of the Earth’s changing surface and the sub-discipline I work in), but I still understand almost nothing when reading geochemistry papers, for example.</p>
+
+<p>People in the field would argue that scientific papers are technical and that certain terms cannot be avoided. That is probably true, but here, I will try to keep things as simple as possible so that even someone with no background in geoscience (but with a basic understanding of English and school-level science) can follow along. Whenever I do use certain terms, I will make sure to explain them clearly.</p>
+
+<p>Now, for my uninitiated readers, this blog will cover a few glacial and near-glacial landscape terms that will help introduce you to my study region. I tend to avoid using AI when writing because I generally enjoy doing it myself. But I had a few conversations with ChatGPT to generate a few instructive sketches explaining some basic concepts, mostly because I suck at drawing/sketching!</p>
+
+<h1 id="what-is-a-catchment">What is a Catchment?</h1>
+
+<p>You can think of a catchment as a natural water-collecting system.</p>
+
+<p>It is an area of land, usually surrounded by mountains or hills, where rainfall flows downhill into streams and rivers that eventually drain out through a single outlet.</p>
+
+<p>AI helped me generate a nice sketch of a catchment :)</p>
+
+<p><img src="/assets/img/catchment_sketch.png" alt="Catchment sketch" /></p>
+
+<h1 id="what-was-the-little-ice-age-lia">What was the Little Ice Age (LIA)?</h1>
+
+<p>The <strong>Little Ice Age (LIA)</strong> was a period of regional cooling that lasted roughly from the 13th to the 19th century.</p>
+
+<p>It was not a true ice age, but many parts of the world became noticeably cooler, leading to the expansion and advance of glaciers in several mountain regions.</p>
+
+<h1 id="what-is-a-moraine">What is a Moraine?</h1>
+
+<p>A <strong>moraine</strong> is a mound of unsorted rocks and debris deposited by glaciers or ice sheets.</p>
+
+<p>Earlier, I used the term <strong>terminal moraine</strong>. Moraines can be classified into different types:</p>
+
+<ul>
+  <li>A <strong>terminal moraine</strong> is a ridge of debris that marks the terminus, or end, of an advancing glacier.</li>
+  <li>A <strong>medial moraine</strong> forms where two glacier ice streams merge together.</li>
+  <li>A <strong>lateral moraine</strong> forms along the sides of a glacier.</li>
+</ul>
+
+<p><img src="/assets/img/moraine_sketch.png" alt="Catchment sketch" /></p>
+
+<p>Now, it probably makes more sense to look at actual field photographs of different moraine types. Along with the moraines, you can also see some fantastic peaks and the proglacial stream flowing between moraines in this region.</p>
+
+<p><img src="/assets/img/labels.png" alt="Catchment sketch" /></p>
+
+<h1 id="the-sulden-proglacial-region">The Sulden Proglacial Region</h1>
+
+<p>I hope these explanations clarify some key glacial and proglacial terms.</p>
+
+<p>Let’s now look at the Sulden proglacial region itself.</p>
+
+<p>Here’s a Google Earth view of part of the catchment:</p>
+
+<p><img src="/assets/img/overview.png" alt="Catchment sketch" /></p>
+
+<p>We have high peaks in the uplands, with elevations exceeding <strong>3500 meters</strong>. You can also see the terminal moraine, which marks the former glacial extent in 1927.</p>
+
+<p>Since then, the glacier has steadily receded, and this recession has become much more pronounced in recent years.</p>
+
+<p>The LIA terminal moraine likely extended farther down-valley, but it is no longer preserved due to later human modifications of the landscape.</p>
+
+<p><img src="/assets/img/overview_2.png" alt="Catchment sketch" /></p>
+
+<hr />
+
+<p>What I actually <em>do</em> in this proglacial region, I will explain in upcoming blogs.</p>]]></content><author><name></name></author><category term="blog" /><category term="geomorphology" /><category term="glaciers" /><category term="proglacial" /><category term="catchment" /><category term="alpine-environment" /><summary type="html"><![CDATA[Introduction to the Sulden catchment and some basic glacial geomorphology concepts]]></summary></entry></feed>
