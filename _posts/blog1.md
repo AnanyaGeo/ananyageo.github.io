@@ -29,8 +29,11 @@ It is an area of land, usually surrounded by mountains or hills, where rainfall 
 
 AI helped me generate a nice sketch of a catchment :)
 
-![Catchment sketch](/assets/img/catchment_sketch.png)
-*Simplified sketch of a mountain catchment (AI generated)*
+<img src="/assets/img/catchment_sketch.png"
+     style="display: block; margin-left: auto; margin-right: auto; width: 700px;">
+<p style="text-align: center; font-style: italic;">
+  Simplified sketch of a mountain catchment (AI generated).
+</p>
 
 ---
 
