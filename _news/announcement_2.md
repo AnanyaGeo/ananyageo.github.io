@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Poster at the IAG Denuchange Workshop, Naxos (Greece)
 date: 2026-10-13 16:11:00-0400
 inline: false
 related_posts: false
